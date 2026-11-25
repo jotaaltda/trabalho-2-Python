@@ -1,0 +1,110 @@
+{
+  "PA-001": {
+    "descricao": "Bicicleta Aro 29 MTB",
+    "tipo": "PA",
+    "unidade": "un",
+    "custo": "0",
+    "prazo": 1,
+    "seguranca": "0",
+    "lote": "5"
+  },
+  "PA-002": {
+    "descricao": "Bicicleta Aro 29 Urbana",
+    "tipo": "PA",
+    "unidade": "un",
+    "custo": "0",
+    "prazo": 1,
+    "seguranca": "0",
+    "lote": "4"
+  },
+  "SA-010": {
+    "descricao": "Quadro aro 29 soldado",
+    "tipo": "SA",
+    "unidade": "un",
+    "custo": "0",
+    "prazo": 1,
+    "seguranca": "2",
+    "lote": "10"
+  },
+  "SA-020": {
+    "descricao": "Roda aro 29 montada",
+    "tipo": "SA",
+    "unidade": "un",
+    "custo": "0",
+    "prazo": 1,
+    "seguranca": "4",
+    "lote": "25"
+  },
+  "MP-100": {
+    "descricao": "Tubo de aço carbono",
+    "tipo": "MP",
+    "unidade": "m",
+    "custo": "20",
+    "prazo": 2,
+    "seguranca": "5",
+    "lote": "50"
+  },
+  "MP-101": {
+    "descricao": "Tinta epóxi",
+    "tipo": "MP",
+    "unidade": "L",
+    "custo": "30",
+    "prazo": 1,
+    "seguranca": "2",
+    "lote": "10"
+  },
+  "MP-200": {
+    "descricao": "Aro 29 alumínio",
+    "tipo": "MP",
+    "unidade": "un",
+    "custo": "50",
+    "prazo": 1,
+    "seguranca": "6",
+    "lote": "30"
+  },
+  "MP-201": {
+    "descricao": "Raio inox",
+    "tipo": "MP",
+    "unidade": "un",
+    "custo": "0.8",
+    "prazo": 2,
+    "seguranca": "100",
+    "lote": "800"
+  },
+  "MP-202": {
+    "descricao": "Pneu 29 x 2.20",
+    "tipo": "MP",
+    "unidade": "un",
+    "custo": "55",
+    "prazo": 1,
+    "seguranca": "20",
+    "lote": "40"
+  },
+  "MP-300": {
+    "descricao": "Guidão",
+    "tipo": "MP",
+    "unidade": "un",
+    "custo": "45",
+    "prazo": 1,
+    "seguranca": "4",
+    "lote": "12"
+  },
+  "MP-301": {
+    "descricao": "Kit transmissão 12v",
+    "tipo": "MP",
+    "unidade": "un",
+    "custo": "320",
+    "prazo": 2,
+    "seguranca": "4",
+    "lote": "10"
+  },
+  "MP-302": {
+    "descricao": "Selim urbano",
+    "tipo": "MP",
+    "unidade": "un",
+    "custo": "65",
+    "prazo": 1,
+    "seguranca": "4",
+    "lote": "12"
+  }
+}

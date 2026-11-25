@@ -1,0 +1,12 @@
+data,item,tipo,quantidade,saldo,documento
+2026-10-01,PA-002,ENTRADA,1,1,Inventário inicial
+2026-10-01,SA-010,ENTRADA,24,24,Inventário inicial
+2026-10-01,SA-020,ENTRADA,48,48,Inventário inicial
+2026-10-01,MP-100,ENTRADA,45,45,Inventário inicial
+2026-10-01,MP-101,ENTRADA,12,12,Inventário inicial
+2026-10-01,MP-200,ENTRADA,30,30,Inventário inicial
+2026-10-01,MP-201,ENTRADA,1000,1000,Inventário inicial
+2026-10-01,MP-202,ENTRADA,18,18,Inventário inicial
+2026-10-01,MP-300,ENTRADA,30,30,Inventário inicial
+2026-10-01,MP-301,ENTRADA,30,30,Inventário inicial
+2026-10-01,MP-302,ENTRADA,20,20,Inventário inicial

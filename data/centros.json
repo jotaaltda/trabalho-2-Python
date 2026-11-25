@@ -1,0 +1,12 @@
+{
+  "CT-01": {
+    "descricao": "Fabricação",
+    "horas": "16",
+    "custo": "48"
+  },
+  "CT-02": {
+    "descricao": "Montagem final",
+    "horas": "4",
+    "custo": "40"
+  }
+}
