@@ -57,3 +57,7 @@ Em uma OC liberada, a mesma opção de encerramento registra o recebimento total
 ## Onde os dados são salvos
 
 Na primeira alteração, o programa grava `estado.json` na pasta de dados. Nas próximas execuções, ele carrega esse arquivo. Use uma sessão por pasta de dados.
+
+## LINK DA APRESENTAÇÃO!!!!!!!!!!!!!!!!!!!!!!!
+
+https://youtu.be/uMkM88DnuOQ
